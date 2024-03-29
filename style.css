@@ -191,6 +191,7 @@ body {
 .section-title .span {
   display: inline-block;
   color: var(--color);
+  display: flex; justify-content: center
 }
 
 .btn {
